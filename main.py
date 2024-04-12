@@ -6,7 +6,6 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import mean_squared_error
 from keras.callbacks import EarlyStopping
 np.set_printoptions(precision = 3)
-print("Dillon Broaders 16324857")
 print("TensorFlow version:", tf.__version__)
 
 #reads coordinate file and returns list of molecular coordinates
